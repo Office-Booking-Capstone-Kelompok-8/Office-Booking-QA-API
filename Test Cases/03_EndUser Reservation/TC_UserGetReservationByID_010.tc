@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_UserGetReservationByID_010</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf44061a-a978-4479-a21e-adb0c7e4f987</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS.AdmDeleteBuildingByID.025</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5da7c02-b6aa-486a-a079-effc0faaa7fa</testCaseGuid>
+</TestCaseEntity>
